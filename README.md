@@ -1,9 +1,13 @@
 #Gerenciador de Memória
 ##Autores
 [Rafaelo Pinheiro](mailto:rafaelo.pinheiro1988@gmail.com)
+
 [Eduardo Veiga](mailto:kluwe@softwarelivre.org)
+
 [Harlan Maas Martins](mailto:hmaas00@hotmail.com)
+
 [Eliezer Flores](mailto:eliezersflores@gmail.com)
+
 
 
 #Introdução 
